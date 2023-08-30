@@ -84,7 +84,7 @@ Clone this repository to your desired folder:
 
 - GitHub: [@mohashyne](https://github.com/mohashyne)
 - Twitter: [@muhammadslyhu](https://twitter.com/muhammadsalyhu)
-- LinkedIn: [muhammad-salihu-27467a165](https://linkedin.com/in/msalyhu)
+- LinkedIn: [muhammad-salihu](https://linkedin.com/in/msalyhu)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
